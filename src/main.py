@@ -1,5 +1,3 @@
-# Minecraft mob farm autoclicker
-
 from time import sleep
 
 from mouse import click, _os_mouse
